@@ -5,7 +5,9 @@ import lombok.Getter;
 import lombok.Setter;
 
 import javax.persistence.*;
-
+/**
+ * Modelo que representa o aluno
+ * */
 @Entity
 @Getter
 @Setter
